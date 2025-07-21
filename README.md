@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/RamirezThomasAlan">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Thomas+Ramirez;I+build+websites;With+React+%26+WordPress.&center=true&width=500&height=45" width="999" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Thomas+Ramirez;I+build+websites;With+React+%26+WordPress.&center=true&width=500&height=45" width="700" />
   </a>
 </h1>
 
