@@ -27,6 +27,8 @@ I care about clean code 🧼, great design 🎨, and creating things that bring 
 [![LinkedIn Badge](https://img.shields.io/badge/-Thomas%20Ramírez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-alan-ramirez/)](https://www.linkedin.com/in/thomas-alan-ramirez/) 
 [![Gmail Badge](https://img.shields.io/badge/-ramirezthomasalan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramirezthomasalan@gmail.com)](mailto:ramirezthomasalan@gmail.com) 
 [![GitHub](https://img.shields.io/badge/-RamirezThomasAlan-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/RamirezThomasAlan)](https://github.com/RamirezThomasAlan)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=flat-square&logo=web&logoColor=white&link=https://portafolio-thomas-ramirez.netlify.app/)](https://portafolio-thomas-ramirez.netlify.app/)
+
 
 <!-- Tech stack -->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack</h2>
