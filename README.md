@@ -56,24 +56,16 @@ I care about clean code 🧼, great design 🎨, and creating things that bring 
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 <!-- GitHub stats -->
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github Stats </h2>
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=RamirezThomasAlan&theme=dark&show_icons=true&count_private=true" />
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamirezThomasAlan&theme=dark&hide_border=false" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RamirezThomasAlan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/RamirezThomasAlan/RamirezThomasAlan/main/resources/img/github-contribution-grid-snake.svg"
+    alt="snake animation" />
 </p>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RamirezThomasAlan&theme=material-palenight)](https://github.com/RamirezThomasAlan)
+
+</div>
