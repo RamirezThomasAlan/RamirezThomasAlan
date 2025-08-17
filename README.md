@@ -17,11 +17,11 @@
 
 I specialize in <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React gif" width="20" /> React and <img src="https://media.giphy.com/media/3de1kqCxacXCh2s3NF/giphy.gif" alt="WordPress logo spinning" width="20"> WordPress with Elementor Pro, tools I use to craft fast, modern, and visually engaging web experiences.
 
-Over the past year, I’ve worked on personal projects and as a <img src="https://tenor.com/smM4keLLkN1.gif" alt="Puzzle gif" width="100"> WordPress Developer in a company, building professional sites with strong SEO, performance and design.
+Over the past year, I’ve worked on personal projects and as a <img src="https://media.tenor.com/1AeGqzlhs_cAAAAi/game-gaming.gif" alt="Puzzle gif" width="20"> WordPress Developer in a company, building professional sites with strong SEO, performance and design.
 
 I’m currently looking for new opportunities as a Frontend Developer (Jr/Ssr) or WordPress Developer, open to both freelance and full-time roles.
 
-I care about clean code <img src="https://tenor.com/view/pengu-pudgy-penguin-pudgypenguins-sweep-gif-17295130934352298489" alt="Clean gif" width="120">, great design <img src="https://tenor.com/bl3kA.gif" alt="Art gif" width="100">, and creating things that bring real value <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> .</h4>
+I care about clean code <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/penguin-penguin-clean.gif" alt="Clean gif" width="20"> , great design <img src = "https://media.tenor.com/gg2GoB_YbwoAAAAi/pride-month-pride.gif" width = 10px>, and creating things that bring real value <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px> </picture> .</h4>
 
 <!-- Redes sociales -->
 [![LinkedIn Badge](https://img.shields.io/badge/-Thomas%20Ramírez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-alan-ramirez/)](https://www.linkedin.com/in/thomas-alan-ramirez/) 
