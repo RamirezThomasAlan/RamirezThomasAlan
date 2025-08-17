@@ -60,7 +60,7 @@ I care about clean code 🧼, great design 🎨, and creating things that bring 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github Stats </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RamirezThomasAlan/RamirezThomasAlan/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/RamirezThomasAlan/RamirezThomasAlan/main/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <div align="center">
