@@ -13,15 +13,15 @@
 </p>
 
 <!-- Presentación -->
-<h4>I'm a 💻 Frontend Developer focused on building clean, responsive and user-friendly websites.
+<h4>I'm a <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture> Frontend Developer focused on building clean, responsive and user-friendly websites.
 
-I specialize in ⚛️ React and 🌐 WordPress with Elementor Pro, tools I use to craft fast, modern, and visually engaging web experiences.
+I specialize in <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React gif" width="20" /> React and <img src="https://media.giphy.com/media/3de1kqCxacXCh2s3NF/giphy.gif" alt="WordPress logo spinning" width="20"> WordPress with Elementor Pro, tools I use to craft fast, modern, and visually engaging web experiences.
 
-Over the past year, I’ve worked on personal projects and as a 🧩 WordPress Developer in a company, building professional sites with strong SEO, performance and design.
+Over the past year, I’ve worked on personal projects and as a <img src="https://tenor.com/smM4keLLkN1.gif" alt="Puzzle gif" width="100"> WordPress Developer in a company, building professional sites with strong SEO, performance and design.
 
 I’m currently looking for new opportunities as a Frontend Developer (Jr/Ssr) or WordPress Developer, open to both freelance and full-time roles.
 
-I care about clean code 🧼, great design 🎨, and creating things that bring real value 🚀.</h4>
+I care about clean code <img src="https://tenor.com/view/pengu-pudgy-penguin-pudgypenguins-sweep-gif-17295130934352298489" alt="Clean gif" width="120">, great design <img src="https://tenor.com/bl3kA.gif" alt="Art gif" width="100">, and creating things that bring real value <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> .</h4>
 
 <!-- Redes sociales -->
 [![LinkedIn Badge](https://img.shields.io/badge/-Thomas%20Ramírez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-alan-ramirez/)](https://www.linkedin.com/in/thomas-alan-ramirez/) 
@@ -31,7 +31,7 @@ I care about clean code 🧼, great design 🎨, and creating things that bring 
 
 
 <!-- Tech stack -->
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack</h2> 
 
 <h4>Frontend:</h4>
 <p>
