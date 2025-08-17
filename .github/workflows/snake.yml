@@ -1,7 +1,9 @@
 name: Generate Snake
 
 on:
-  workflow_dispatch: # se puede ejecutar manualmente
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:   
 
 jobs:
   build:
@@ -15,15 +17,15 @@ jobs:
         with:
           github_user_name: RamirezThomasAlan
           outputs: |
-            github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit SVG
-        run: |
-          git config --global user.name "RamirezThomasAlan"
-          git config --global user.email "ramirezthomasalan@gmail.com"
-          git add github-contribution-grid-snake.svg
-          git commit -m "Update snake"
-          git push
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
