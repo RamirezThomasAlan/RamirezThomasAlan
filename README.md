@@ -63,6 +63,10 @@ I care about clean code 🧼, great design 🎨, and creating things that bring 
   <img src="https://raw.githubusercontent.com/RamirezThomasAlan/RamirezThomasAlan/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <br>
+</p>
+
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RamirezThomasAlan&theme=material-palenight)](https://github.com/RamirezThomasAlan)
