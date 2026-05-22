@@ -27,7 +27,7 @@ I care about clean code <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/pengu
 [![LinkedIn Badge](https://img.shields.io/badge/-Thomas%20Ramírez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-alan-ramirez/)](https://www.linkedin.com/in/thomas-alan-ramirez/) 
 [![Gmail Badge](https://img.shields.io/badge/-ramirezthomasalan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramirezthomasalan@gmail.com)](mailto:ramirezthomasalan@gmail.com) 
 [![GitHub](https://img.shields.io/badge/-RamirezThomasAlan-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/RamirezThomasAlan)](https://github.com/RamirezThomasAlan)
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=flat-square&logo=web&logoColor=white&link=https://portafolio-thomas-ramirez.netlify.app/)](https://portafolio-thomas-ramirez.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=flat-square&logo=web&logoColor=white&link=https://portafolio-thomas-ramirez.netlify.app/)](https://dev-portafolio-thomas-ramirez.pantheonsite.io/)
 
 
 <!-- Tech stack -->
