@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/RamirezThomasAlan">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Thomas+Ramirez;I+build+websites;With+React+%26+WordPress.&center=true&width=500&height=45" width="700" />
+    <img src="https://readme-typing-svg.herokuapp.com lines=Soy+Thomas+Ramirez;Full+Stack+Developer;React+%7C+WordPress+%7C+Node.js+%7C+Anthropic;%2B60%25+SEO+%7C+%2B40%25+velocidad;C%C3%B3digo+limpio.+Resultados+reales.&center=true&width=500&height=45" width="700" />
   </a>
 </h1>
 
@@ -13,11 +13,11 @@
 </p>
 
 <!-- Presentación -->
-<h4>Soy <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="20px"></picture> Thomás Ramírez, Desarrollador Full Stack especializado en React.js y WordPress con Elementor Pro. Construyo productos web rápidos, limpios y orientados a resultados: desde el prototipo en Figma hasta el deploy en producción.
-En los últimos 2 años trabajé de forma remota con empresas en EE.UU. y Argentina, entregando sitios con métricas reales: +60% de visibilidad SEO orgánica, +40% de velocidad de carga y funnels de conversión que generan resultados concretos de negocio con <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React gif" width="20" /> React y <img src="https://media.giphy.com/media/3de1kqCxacXCh2s3NF/giphy.gif" alt="WordPress logo spinning" width="20"> WordPress con Elementor Pro.
-Trabajé como <img src="https://media.tenor.com/1AeGqzlhs_cAAAAi/game-gaming.gif" alt="Puzzle gif" width="20"> Full Stack Developer en empresas de EE.UU. y Argentina, construyendo sitios profesionales con foco en SEO, performance y diseño.
-Busco integrarme a un equipo estable donde pueda aportar desde el primer día y seguir creciendo.
-Me importa el código limpio <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/penguin-penguin-clean.gif" alt="Clean gif" width="20">, el diseño profesional <img src="https://media.tenor.com/gg2GoB_YbwoAAAAi/pride-month-pride.gif" width="10px"> y que cada decisión técnica tenga un impacto real <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="20px"></picture>.</h4>
+<h4>Soy <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="20px"></picture> Thomás Ramírez, Desarrollador Full Stack con más de 2 años construyendo productos digitales que combinan rendimiento técnico, diseño profesional y resultados de negocio medibles.
+Mi stack abarca <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React gif" width="20" /> React, JavaScript ES6+, HTML5, CSS3, Tailwind, Sass y <img src="https://media.giphy.com/media/3de1kqCxacXCh2s3NF/giphy.gif" alt="WordPress logo spinning" width="20"> WordPress, Elementor Pro, Shopify, Webflow, Figma y Git — cubriendo el ciclo completo desde el prototipo hasta el deploy.
+Trabajé de forma remota con <img src="https://media.tenor.com/1AeGqzlhs_cAAAAi/game-gaming.gif" alt="Puzzle gif" width="20"> empresas en EE.UU. y Argentina, logrando +60% de visibilidad SEO orgánica, +40% de velocidad de carga y funnels de conversión con impacto real en el negocio.
+Integro herramientas de IA como Claude, Stitch y Antigravity en mis flujos de trabajo para entregar más rápido y con mayor precisión técnica en cada proyecto.
+Me importa el código limpio <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/penguin-penguin-clean.gif" alt="Clean gif" width="20">, el diseño con propósito <img src="https://media.tenor.com/gg2GoB_YbwoAAAAi/pride-month-pride.gif" width="10px"> y construir cosas que generen valor real <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="20px"></picture>.</h4>
 
 <!-- Redes sociales -->
 [![LinkedIn Badge](https://img.shields.io/badge/-Thomas%20Ramírez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-alan-ramirez/)](https://www.linkedin.com/in/thomas-alan-ramirez/) 
@@ -29,7 +29,6 @@ Me importa el código limpio <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/
 <!-- Tech stack -->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack</h2> 
 
-<h4>Frontend:</h4>
 <p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,10 +36,6 @@ Me importa el código limpio <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/
   <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-<h4>CMS:</h4>
-<p>
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
   <img src="https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white" />
 </p>
