@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/RamirezThomasAlan">
-    <img src="https://readme-typing-svg.herokuapp.com lines=Soy+Thomas+Ramirez;Full+Stack+Developer;React+%7C+WordPress+%7C+Node.js+%7C+Anthropic;%2B60%25+SEO+%7C+%2B40%25+velocidad;C%C3%B3digo+limpio.+Resultados+reales.&center=true&width=500&height=45" width="700" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&height=45&lines=Soy+Thomas+Ramirez;Full+Stack+Developer;React+%7C+WordPress+%7C+Node.js+%7C+Anthropic;%2B60%25+SEO+%7C+%2B40%25+velocidad;Codigo+limpio.+Resultados+reales." width="700" />
   </a>
 </h1>
 
@@ -25,6 +25,17 @@ Me importa el código limpio <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/
 [![GitHub](https://img.shields.io/badge/-RamirezThomasAlan-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/RamirezThomasAlan)](https://github.com/RamirezThomasAlan)
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=flat-square&logo=web&logoColor=white&link=https://portafolio-thomas-ramirez.netlify.app/)](https://dev-portafolio-thomas-ramirez.pantheonsite.io/)
 
+<br>
+
+<!-- GitHub stats -->
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github Stats </h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RamirezThomasAlan/RamirezThomasAlan/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
 
 <!-- Tech stack -->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack</h2> 
@@ -46,16 +57,6 @@ Me importa el código limpio <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
-<!-- GitHub stats -->
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github Stats </h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RamirezThomasAlan/RamirezThomasAlan/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-  <br>
 </p>
 
 <div align="center">
