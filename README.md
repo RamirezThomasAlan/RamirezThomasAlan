@@ -30,7 +30,7 @@ Me importa el código limpio <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/
 <!-- GitHub stats -->
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github Stats </h2>
 
-<div align="center">
+<div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RamirezThomasAlan&theme=material-palenight)](https://github.com/RamirezThomasAlan)
 
