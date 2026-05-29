@@ -13,15 +13,11 @@
 </p>
 
 <!-- Presentación -->
-<h4>I'm a <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture> Frontend Developer focused on building clean, responsive and user-friendly websites.
-
-I specialize in <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React gif" width="20" /> React and <img src="https://media.giphy.com/media/3de1kqCxacXCh2s3NF/giphy.gif" alt="WordPress logo spinning" width="20"> WordPress with Elementor Pro, tools I use to craft fast, modern, and visually engaging web experiences.
-
-Over the past year, I’ve worked on personal projects and as a <img src="https://media.tenor.com/1AeGqzlhs_cAAAAi/game-gaming.gif" alt="Puzzle gif" width="20"> WordPress Developer in a company, building professional sites with strong SEO, performance and design.
-
-I’m currently looking for new opportunities as a Frontend Developer (Jr/Ssr) or WordPress Developer, open to both freelance and full-time roles.
-
-I care about clean code <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/penguin-penguin-clean.gif" alt="Clean gif" width="20"> , great design <img src = "https://media.tenor.com/gg2GoB_YbwoAAAAi/pride-month-pride.gif" width = 10px>, and creating things that bring real value <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px> </picture> .</h4>
+<h4>Soy <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="20px"></picture> Thomás Ramírez, Desarrollador Full Stack especializado en React.js y WordPress con Elementor Pro. Construyo productos web rápidos, limpios y orientados a resultados: desde el prototipo en Figma hasta el deploy en producción.
+En los últimos 2 años trabajé de forma remota con empresas en EE.UU. y Argentina, entregando sitios con métricas reales: +60% de visibilidad SEO orgánica, +40% de velocidad de carga y funnels de conversión que generan resultados concretos de negocio con <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React gif" width="20" /> React y <img src="https://media.giphy.com/media/3de1kqCxacXCh2s3NF/giphy.gif" alt="WordPress logo spinning" width="20"> WordPress con Elementor Pro.
+Trabajé como <img src="https://media.tenor.com/1AeGqzlhs_cAAAAi/game-gaming.gif" alt="Puzzle gif" width="20"> Full Stack Developer en empresas de EE.UU. y Argentina, construyendo sitios profesionales con foco en SEO, performance y diseño.
+Busco integrarme a un equipo estable donde pueda aportar desde el primer día y seguir creciendo.
+Me importa el código limpio <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/penguin-penguin-clean.gif" alt="Clean gif" width="20">, el diseño profesional <img src="https://media.tenor.com/gg2GoB_YbwoAAAAi/pride-month-pride.gif" width="10px"> y que cada decisión técnica tenga un impacto real <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="20px"></picture>.</h4>
 
 <!-- Redes sociales -->
 [![LinkedIn Badge](https://img.shields.io/badge/-Thomas%20Ramírez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomas-alan-ramirez/)](https://www.linkedin.com/in/thomas-alan-ramirez/) 
