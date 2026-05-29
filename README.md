@@ -30,12 +30,11 @@ Me importa el código limpio <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/
 <!-- GitHub stats -->
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github Stats </h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RamirezThomasAlan/RamirezThomasAlan/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RamirezThomasAlan&theme=material-palenight)](https://github.com/RamirezThomasAlan)
+
+</div>
 
 <!-- Tech stack -->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack</h2> 
@@ -58,9 +57,3 @@ Me importa el código limpio <img src="https://media.tenor.com/DlICV9zIlbAAAAAi/
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 </p>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RamirezThomasAlan&theme=material-palenight)](https://github.com/RamirezThomasAlan)
-
-</div>
